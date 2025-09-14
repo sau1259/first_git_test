@@ -1,3 +1,3 @@
 # first_git_test
-This is my first GIT Repo.
+This is my first GIT Repo.<br/>
 Author - Saurabh Gupta
